@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#111827"/>
+  <path d="M850 0h350v350" fill="none" stroke="#3b82f6" stroke-width="2" opacity=".45"/>
+  <circle cx="1010" cy="115" r="230" fill="none" stroke="#3b82f6" stroke-width="2" opacity=".35"/>
+  <circle cx="1010" cy="115" r="155" fill="none" stroke="#3b82f6" stroke-width="2" opacity=".45"/>
+  <text x="90" y="160" fill="#60a5fa" font-family="monospace" font-size="24" letter-spacing="5">ОДЕССА · УДАЛЁННО</text>
+  <text x="90" y="275" fill="#f9fafb" font-family="Arial, sans-serif" font-size="66" font-weight="700">Дмитрий</text>
+  <text x="90" y="365" fill="#f9fafb" font-family="Arial, sans-serif" font-size="44" font-weight="600">Системное администрирование</text>
+  <text x="90" y="425" fill="#f9fafb" font-family="Arial, sans-serif" font-size="44" font-weight="600">и веб-разработка</text>
+  <path d="M90 485h92" stroke="#3b82f6" stroke-width="6"/>
+  <text x="90" y="545" fill="#d1d5db" font-family="Arial, sans-serif" font-size="26">MikroTik · сети · серверы · автоматизация</text>
+</svg>
